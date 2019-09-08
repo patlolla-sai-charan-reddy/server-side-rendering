@@ -4,7 +4,7 @@ import Home from './Home';
 function App() {
   return (
     <>
-      <Home name="HELLO!! SEVER SIDE RENDERING" />
+      <Home name="CHECKING SEVER SIDE RENDERING" />
     </>
   );
 }
